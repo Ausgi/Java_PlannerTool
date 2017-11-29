@@ -8,7 +8,7 @@ You can add, edit and delete courses from your list.
 4. License
 
 -----------------------------------------------------------------------------------------------------------------------------------
-1. Installation: 
+1. Installation:
 To use the application, download the files from git repository. Run the sql-file with SQL client to create the database and example data. Open the application with JDE such as Eclipse. Run the Schedule.java.
 
 2. Usage: 
