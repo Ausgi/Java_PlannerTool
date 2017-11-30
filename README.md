@@ -12,7 +12,7 @@ You can add, edit and delete courses from your list.
 
 2. Use the application to add, edit and delete courses with buttons.
 
-3. Credits to fellow coders Jesse Inkinen and Ella Harmaala. Also to our teacher Antonius de Arruda Camara
+3. Credits to fellow coders Jesse Inkinen and Ella Harmaala. Also to our teacher Antonius Camara
 
 4. MIT-License
 
