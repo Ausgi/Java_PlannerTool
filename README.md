@@ -2,7 +2,7 @@
 Planner tool for school courses.
 You can add, edit and delete courses from your list.
 
-1. Istallation
+1. Installation
 2. Usage
 3. Credits 
 4. License
