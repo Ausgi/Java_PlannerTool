@@ -7,6 +7,7 @@ You can add, edit and delete courses from your list.
 3. Credits 
 4. License
 
+*Wiki page contains more information
 -----------------------------------------------------------------------------------------------------------------------------------
 1. To use the application, download the files from git repository.
 
