@@ -84,8 +84,8 @@ public class Schedule extends JFrame {
                            
                                 try {
                                     // Getting the connection straight from here
-                                	//Sending prepared sql statement to database
-                                    Connection conn = (Connection) DriverManager.getConnection("jdbc:mysql://eu-cdbr-azure-west-b.cloudapp.net:3306/hermas_august", "b88ca230425d11", "6c52fb01");
+                                	//Sending prepared sql statement to database			 
+                                    Connection conn = (Connection) DriverManager.getConnection("jdbc:mysql://eu-cdbr-azure-west-b.cloudapp.net:3306/***", "**", "*"); // *** Azure database name **Database username *Database password
                                     PreparedStatement ps = (PreparedStatement) conn.prepareStatement("delete from courses where courseName='"+selected+"' ");
                                     ps.executeUpdate();
                                 }
