@@ -11,9 +11,9 @@ import java.util.ArrayList;
 // This Class manages database operations associated to the Course Class
 public class CourseQueries {
     // DB connection details
-    private static final String URL = "jdbc:mysql://***"; // *** Azure database example "jdbc:mysql://HOSTNAME:PORT/DATABASE_NAME"
-    private static final String USERNAME = "***"; // Database username
-    private static final String PASSWORD = "***"; // Database password
+    private static final String URL = "jdbc:mysql://***"; // ***Azure database example "jdbc:mysql://HOSTNAME:PORT/DATABASE_NAME"
+    private static final String USERNAME = "**"; // **Database username
+    private static final String PASSWORD = "*"; // *Database password
  
     private Connection connection = null;
     private static PreparedStatement selectAllCourses = null;
